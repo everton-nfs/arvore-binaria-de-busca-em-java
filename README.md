@@ -15,7 +15,7 @@ Este projeto implementa uma Árvore Binária de Busca (BST) em Java. O código i
 
 2. **Importar o Projeto**:
    - Vá para `File` > `Open Project...`.
-   - Navegue até o diretório onde você clonou o projeto (`BinarySearchTree`).
+   - Navegue até o diretório onde você clonou o projeto `arvore-binaria-de-busca-em-java`.
    - Selecione a pasta do projeto e clique em `Open Project`.
 
 3. **Configurar o Projeto** (se necessário):
